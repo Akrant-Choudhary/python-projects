@@ -1,0 +1,4 @@
+The csv file should be in the same folder where the program is saved
+The csv file should have closed columns
+The csv file should not have extra commas
+The file name should be changed if you change your csv file's name
